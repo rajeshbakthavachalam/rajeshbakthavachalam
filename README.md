@@ -19,9 +19,8 @@ I'm a **Generative AI enthusiast** and a **developer** with a passion for creati
   - Tools like Streamlit, Gradio, and LangChain
 
 - 📫 How to reach me:
-  - Email: [youremail@example.com](mailto:youremail@example.com)
-  - LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-  - Twitter: [@yourhandle](https://twitter.com/yourhandle)
+  - Email: rajesh.bkm@gmail.com
+  - LinkedIn: https://www.linkedin.com/in/rajesh-b-a120a824/
 
 ---
 
