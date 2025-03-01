@@ -10,6 +10,7 @@ I'm a **Generative AI enthusiast** and a **developer** with a passion for creati
 
 - 🌱 Currently learning: 
   - **Vector Databases** (e.g., Pinecone, FAISS)
+  - **AI Agents**
   - **Retrieval-Augmented Generation (RAG)** techniques
   - Cloud deployment with AWS and GCP
 
